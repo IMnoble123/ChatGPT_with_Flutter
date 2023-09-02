@@ -1,15 +1,10 @@
 # ChatGPT AI Chatbot App
 
-<img src = "chat_gpt_1.png">
+<img src = "chatgpt_img.png">
 <p>
 A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
 </p>
 
-### Show some :heart: and star the repo.
-
-## [Video tutorial available here](https://youtu.be/94JmNb1IhX0)
-
-#### [Subscribe to Codepur](https://youtube.com/hellocodepur)
 
 ## Features
 
@@ -37,7 +32,3 @@ The chatbot can be further customized to fit your use-case by modifying the code
 
 - OpenAI - https://openai.com
 - Flutter - https://flutter.dev/
-
-Please open an issues on the repository if you find any bugs or if you would like to contribute.
-
-Code and documentation Copyright 2023 [Pawan Kumar](https://www.codepur.dev). Code released under the [Apache License](./LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
